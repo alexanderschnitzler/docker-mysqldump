@@ -36,7 +36,7 @@ drwxrwxr-x 4 whoami whoami 4096 Feb 25 17:51 ..
 
 Mind the file permissions!  
 `chown 0:0 backup && chmod 700 backup`  
-`chown 0:0 backup && chmod 500 crontab`
+`chown 0:0 backup && chmod 600 crontab`
 
 ##### docker-compose.yml
 ```
