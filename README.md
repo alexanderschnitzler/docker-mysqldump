@@ -1,7 +1,7 @@
 ## Supported tags and respective Dockerfile links
 latest ([Dockerfile](https://github.com/alexanderschnitzler/docker-mysqldump/blob/master/Dockerfile))
 
-The container is based on `alpine:3.14`, thus it is very small.
+The container is based on `alpine:3.15`, thus it is very small.
 
 
 ## What is schnitzler/mysqldump?
